@@ -1,5 +1,7 @@
 package strings;
 
+// LeetCode Problem : Remove All Adjacent Duplicates in String.
+
 public class RemoveDuplicates {
 
 	public static void main(String[] args) {
